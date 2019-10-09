@@ -5,8 +5,7 @@ sections:
     section_id: hero
     component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Musings of a gender challenged computer scientist...
   - type: contentblock
     title: About
     section_id: about
@@ -15,10 +14,7 @@ sections:
         url: /contact
     component: ContentBlock
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I am a queer, nonbinary devloper living and working in Memphis, TN. This is a blog about some of my work, some of my talks, and some of the some of weird stuff that happens when your job is binary, but you are not. Considering I'm in my last semester of school, this blog will probably be filler for a bit. Sorry.
   - type: postsblock
     title: Recent Posts
     section_id: recent-posts
